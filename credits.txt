@@ -1,0 +1,18 @@
+OpenGameArt.Org
+
+CC0 Media:
+
+rubberduck - power_up_03 (power up)
+rubberduck - synth_laser_05.ogg (player hit sound)
+rubberduck - power_up_04.ogg (power up spawned sound)
+Sinestesia - explosion 3.png (Explosion Animation, Boss Explosion)
+Kenney Vleugels for Kenney (www.kenney.nl) - game_over.ogg (game over audio)
+Joth - Chunky Explosion.mp3 (boss explosion)
+juhani.junkala@musician.org - sfx_exp_short_hard7.wav (enemy, boss hit)
+
+freesound.org
+
+CC0 Media:
+
+[Drumbeats (Melodic)] chip toonish electro house loop 128 bpm by waveplaySFX -- https://freesound.org/s/205996/ -- License: Creative Commons 0 (background music)
+Space theme.mp3 by Bratok999 -- https://freesound.org/s/173570/ -- License: Creative Commons 0 (background music)
