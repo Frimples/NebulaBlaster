@@ -709,13 +709,11 @@ HUD Screen with Score, Shields, and Active Power-ups
                         if (boss.x <= 0) {
                             boss.direction = 1;
                             //boss.direction *= -1;
-                            console.log("Boss Direction Change LEFT");
                         }
                         if (boss.x + boss.width >= canvas.width) {
                             //boss.x = canvas.width - boss.width;
                             boss.direction = -1;
                             //boss.direction *= -1;
-                            console.log("Right ", "Boss.x is: ",boss.x,"Canvas Width is: ",canvas.width,boss.direction);
                         }
 
                         // Boss shooting
@@ -1391,7 +1389,16 @@ HUD Screen with Score, Shields, and Active Power-ups
             // START STARFIELD BACKGROUND
             initStars();
 
-     };
+            function initialLoop() {
+    if (!gameStarted) {
+        updateGamepads();
+        requestAnimationFrame(initialLoop);
+    }
+}
+
+initialLoop();
+
+};
     </script>
 </body>
 </html>
