@@ -1,6 +1,8 @@
 # Nebula Strike
 HTML5 Retro Arcade Game like Galaga.
+
 ![SS01](https://github.com/user-attachments/assets/597cfcc3-9b5a-465b-bfe6-96f0754e1cd0)
+
 ![SS02](https://github.com/user-attachments/assets/3a39df8a-4b21-4339-b60a-3311068ac71e)
 
 Keyboard Controls:
