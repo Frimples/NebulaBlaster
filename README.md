@@ -1,4 +1,4 @@
-# NebulaBlaster
+# Nebula Strike
 HTML5 Retro Arcade Game like Galaga.
 
 Keyboard Controls:
