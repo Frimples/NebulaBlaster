@@ -18,5 +18,6 @@ Triggers for right and left.
 Start button starts and restarts.
 
 Touch Controls:
+
 Touch Start and Restart Buttons to start and restart game.
 Control the ship by swiping left and right.
